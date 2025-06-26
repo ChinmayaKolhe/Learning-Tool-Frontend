@@ -18,6 +18,9 @@ const Sidebar = () => {
         <div className="flex items-center space-x-2">
           <Link to="/fa-mode">FA Mode</Link>
         </div>
+        <div className="flex items-center space-x-2">
+          <Link to="/submission-status">Submission Status</Link>
+        </div>
       </nav>
     </div>
   );
